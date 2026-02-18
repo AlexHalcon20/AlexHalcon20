@@ -1,7 +1,7 @@
 ## Hi there 👋
 Welcome to my personal profile
 
-- I'm currently working on new projects, such as an indie games and tools
+- I'm currently working on new projects, such as a indie games and useful tools
 - I'm currently learning c#, c and more
 
 *Don´t call me, I´ll call you later*
