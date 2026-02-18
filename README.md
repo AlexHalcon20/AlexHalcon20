@@ -1,5 +1,10 @@
 ## Hi there 👋
+Welcome to my personal profile
 
+- I'm currently working on new projects, such as an indie games and tools
+- I'm currently learning c#, c and more
+
+*Don´t call me, I´ll call you later*
 <!--
 **AlexHalcon20/AlexHalcon20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
